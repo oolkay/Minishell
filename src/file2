@@ -1,0 +1,12 @@
+total 8
+drwxr-xr-x  10 acepni  2022_kocaeli   340 30 Tem 12:48 built_in
+drwxr-xr-x   4 acepni  2022_kocaeli   136 30 Tem 12:48 executer
+drwxr-xr-x   4 acepni  2022_kocaeli   136 30 Tem 12:48 expander
+-rw-r--r--   1 acepni  2022_kocaeli     0 30 Tem 13:02 file1
+-rw-r--r--   1 acepni  2022_kocaeli     0 30 Tem 13:02 file2
+-rw-r--r--   1 acepni  2022_kocaeli     0 30 Tem 13:02 file5
+drwxr-xr-x   6 acepni  2022_kocaeli   204 30 Tem 12:48 fill_block
+drwxr-xr-x   7 acepni  2022_kocaeli   238 30 Tem 12:48 init_and_termiante
+-rw-r--r--   1 acepni  2022_kocaeli  3110 30 Tem 12:48 main.c
+drwxr-xr-x   6 acepni  2022_kocaeli   204 30 Tem 12:48 parser
+drwxr-xr-x   4 acepni  2022_kocaeli   136 30 Tem 12:48 utils
